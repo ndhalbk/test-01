@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ContentFlyer AI",
+  "description": "Transform a single product image into high-converting Tunisian social media content, scripts, and AI-generated UGC videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
